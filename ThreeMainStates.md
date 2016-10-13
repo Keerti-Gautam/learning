@@ -1,4 +1,4 @@
-Git has three main states that your files can reside in: committed, modified, and staged. 
+*Git has three main states in which your files can reside in: committed, modified, and staged.* 
 
 * Committed means that the data is safely stored in your local database. 
 * Modified means that you have changed the file but have not committed it to your database yet. 
