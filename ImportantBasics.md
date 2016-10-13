@@ -16,3 +16,5 @@ So, you can’t lose information in transit or get file corruption without Git b
 * When you do actions in Git, nearly all of them only add data to the Git database. Hence, we can experiment without the danger of severely screwing things up. 
 * Most operations in Git only need local files and resources to operate – generally no information is needed from another computer on your network.
 * The mechanism that Git uses for this checksumming is called a SHA-1 hash. This is a 40-character string composed of hexadecimal characters (0–9 and a–f) and calculated based on the data itself (contents of a file or directory structure in Git.) 
+
+*Source* [Here](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
