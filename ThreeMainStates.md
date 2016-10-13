@@ -22,3 +22,6 @@ The staging area is a file, generally contained in your Git directory, that stor
 * You modify files in your working directory.
 * You stage the files, adding snapshots of them to your staging area.
 * You do a commit, which takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+
+
+*Source* [This](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics#The-Three-States)
