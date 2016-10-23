@@ -1,8 +1,6 @@
 ## Important Concept
 *that I might forget*
 
-![important image](/explain.jpg.odg)
- 
 X1 was my master and I was updating it and had one commit to it. After the commit, I thought I would *try* to optimise my code and thus created a new branch called Z and started working on it. 
 I do this by git branch Z (please note that this creates a branch but our HEAD is still on X.2)
 To move to Z, I do a git checkout Z and do the changes that I wish to do. 
