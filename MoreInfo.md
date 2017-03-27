@@ -7,3 +7,4 @@ Find useful links to help you in your learning process below:
 * [This](https://gist.github.com/sakshamsaxena/0bf994fd94746357cb11cdbfb62db350) study material is useful. And the [second](https://gist.github.com/sakshamsaxena/be06a4bf3260c320262be72c7dd80b2e) one too.
 * For help in basic commands, [this](https://gist.github.com/sakshamsaxena/38b0d12364d6faa2d03f) and [this](https://gist.github.com/sakshamsaxena/5c83df15bc2b17f3c72399860b31924b)
 * For markdown styling, dash [here](https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide) and [here](https://help.ghost.org/hc/en-us/articles/224410728-Markdown-Guide)
+* Branch Management [tools](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management) 
