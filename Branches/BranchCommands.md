@@ -54,7 +54,9 @@ If you were trying to merge `abc` and `master` (after the merging of `xyz`) and 
 Merge conflicts, if unresolved, is listed as unmerged after checking the status though `git status`
 
 
-In case of no conflicts, git does a three way merging and creates a new snapshot that results from this three way merge and automatically creates a new commit that points to it. This commit now has more than one parent. 
+*In case of no conflicts* 
+
+Git does a three way merging and creates a new snapshot that results from this three way merge and automatically creates a new commit that points to it. This commit now has more than one parent. 
 
 
 [_Source_](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
