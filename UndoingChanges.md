@@ -18,3 +18,8 @@ So you change a file X, commit the changes, add hey to the contents of the file 
 ### 4. Reverting Committed Snapshots
 
 This works if you accidently committed wrong changes. Command `git revert HEAD` undoes a committed Snapshot, without removing the commit but instead undoing the changes introduced by the commit and adds a new commit to the resulting content. This is important because the history isn't lost and should *only* be used if the entire commit needs to be removed from the project history.  
+
+
+Source: [Git-Docs](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things), Stackoverflow [Answers](http://stackoverflow.com/questions/14075581/git-undo-all-uncommitted-changes)
+
+Difference between reset, revert and checkout is written nicely [here](http://stackoverflow.com/questions/8358035/whats-the-difference-between-git-revert-checkout-and-reset)
