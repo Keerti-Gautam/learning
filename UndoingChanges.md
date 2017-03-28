@@ -7,6 +7,7 @@ If you commit too early, forget to add some files or mess up your commit message
 
 If you accidentally stage two files using `git add *` or `git add xyz.d abc.md`, you can unstage one file by simply using the command `git reset HEAD filename.ext`.
 
+(HEAD points to the latest commit and is hence used)
 
 ### 3. Unmodifying an Accidentally Modified File
 
