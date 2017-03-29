@@ -10,5 +10,3 @@ Find useful links to help you in your learning process below:
 * Branch Management [tools](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management) 
 * .git-* files, their usage and use cases can be found [here](https://gist.github.com/sakshamsaxena/0bf994fd94746357cb11cdbfb62db350#3-git--files-and-usage)
 
-([This](https://gist.github.com/sakshamsaxena/be06a4bf3260c320262be72c7dd80b2e$
-)
